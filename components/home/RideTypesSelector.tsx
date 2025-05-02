@@ -244,8 +244,6 @@ const styles = StyleSheet.create({
   },
   priceText: {
     fontFamily: 'Inter-Bold',
-    fontSize: a well-designed search page
-
     fontSize: 16,
     color: COLORS.TEXT_PRIMARY,
   },
